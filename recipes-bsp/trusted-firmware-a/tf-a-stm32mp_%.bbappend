@@ -1,4 +1,4 @@
-FILESEXTRAPATHS_prepend := "${THISDIR}/tf-a-stm32mp:"
+FILESEXTRAPATHS_prepend := "${THISDIR}/${PN}}:"
 
 
 SRC_URI += " \

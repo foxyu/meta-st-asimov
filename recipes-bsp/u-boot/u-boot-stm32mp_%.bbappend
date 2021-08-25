@@ -1,4 +1,4 @@
-FILESEXTRAPATHS_prepend := "${THISDIR}/u-boot-stm32mp:"
+FILESEXTRAPATHS_prepend := "${THISDIR}/${PN}:"
 
 
 SRC_URI += "  \

@@ -1,4 +1,4 @@
-FILESEXTRAPATHS_prepend := "${THISDIR}/linux-stm32mp:"
+FILESEXTRAPATHS_prepend := "${THISDIR}/${PN}:"
 
 SRC_URI += "\
 	file://0001-ADD-ASIMOV-BOARD-SUPPORT-IN-LINUX.patch \
